@@ -1,0 +1,6 @@
+id,name,email,role
+1,Mateusz Wojciechowski,m.wojciechowski@postlab.store,lead-dev
+2,Kamil Drozdz,k.drozdz@postlab.store,backend-dev
+3,Bartosz Malinowski,b.malinowski@postlab.store,frontend-dev
+4,Krzysztof Bak,k.bak@postlab.store,devops
+5,Michal Szczepanski,m.szczepanski@postlab.store,qa-engineer

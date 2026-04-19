@@ -1,0 +1,19 @@
+smtp:
+  host: mail.postlab.store
+  port: 587
+  from: noreply@postlab.store
+  tls: true
+
+recipients:
+  admin: admin@postlab.store
+  devops: k.bak@postlab.store
+  contact: contact@postlab.store
+  abuse: abuse@postlab.store
+
+templates:
+  welcome:
+    from: info@postlab.store
+    reply_to: m.wojciechowski@postlab.store
+  notifications:
+    from: noreply@postlab.store
+    bcc: admin@postlab.store
